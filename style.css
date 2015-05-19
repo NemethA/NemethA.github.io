@@ -7,7 +7,7 @@ h2{
 }
 
 p{
-	color:red;
+	color:black;
 	font-family:serif;
 	margin-left: 50px;
 }
@@ -18,6 +18,9 @@ p{
 	font-size:0.8em;
 }
 
-#reference{
-	margin-;eft:75px;
+#reference {
+	margin-left:100px;
+	
 }
+
+
