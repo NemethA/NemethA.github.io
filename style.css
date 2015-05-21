@@ -23,4 +23,34 @@ p{
 	
 }
 
+#nav {
+    width: 550px;
+    height: 35px;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: #59EE00;
+	border-radius: 8px;
+}
 
+#nav ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+#nav li { 
+display: inline; 
+padding: 20px; 
+}
+
+#nav a {
+    color: #000000;
+    padding: 8px 8px 8px 8px;
+}
+
+#nav a:hover {
+    color: #EF1700;
+    background-color: #C2F700;
+}
