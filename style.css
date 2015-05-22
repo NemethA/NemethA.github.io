@@ -1,5 +1,10 @@
 h1{
 	font-family: sans-serif;
+	
+}
+
+body{
+	background-color: #0D9D26;
 }
 
 h2{
@@ -32,6 +37,7 @@ p{
     text-align: center;
     background-color: #59EE00;
 	border-radius: 8px;
+	margin-left:500px;
 }
 
 #nav ul {
@@ -41,8 +47,9 @@ p{
 }
 
 #nav li { 
-display: inline; 
-padding: 20px; 
+	display: inline; 
+	padding: 20px;
+	margin: 0px;
 }
 
 #nav a {
@@ -53,4 +60,34 @@ padding: 20px;
 #nav a:hover {
     color: #EF1700;
     background-color: #C2F700;
+}
+
+#titletext1{
+	padding-left: 50px;
+	padding-right: 50px;
+	border-style: dashed;
+    border-width: 10px;
+	border-color: red;
+	margin-left: 550px;
+	margin-right: 550px;
+}
+
+#titletext2 {
+	padding-left: 50px;
+	padding-right: 50px;
+	border-style: dashed;
+    border-width: 10px;
+	border-color: red;
+	margin-left: 550px;
+	margin-right: 600px;
+}
+
+#titletext3 {
+	padding-left: 50px;
+	padding-right: 50px;
+	border-style: dashed;
+    border-width: 10px;
+	border-color: red;
+	margin-left: 550px;
+	margin-right: 550px;
 }
