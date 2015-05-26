@@ -98,4 +98,17 @@ title{
 	color: #0D9D26
 }
 
+#gallery li{
+	display: inline;
+	padding:10px;
+	margin:0px;
+	margin-top:0px;
+	padding-top:0px;
+}
+
+.heading {
+	margin-left:auto;
+	margin-right:auto;
+	width:10%;
+}
 
